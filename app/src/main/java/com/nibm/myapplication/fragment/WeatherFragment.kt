@@ -25,7 +25,7 @@ class WeatherFragment : Fragment() {
     private lateinit var tvTemperature: TextView
     private lateinit var tvCityName: TextView
 
-    private val API_KEY = "d6229c36cc36a1fc3e1edf94183fb84d" // Replace with your OpenWeatherMap API key
+    private val API_KEY = "" // Replace with your OpenWeatherMap API key
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
